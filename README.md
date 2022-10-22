@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Build OpenWrt](https://github.com/Yssscloud/Actions-OpenWrt/actions/workflows/build-openwrt.yml/badge.svg)](https://github.com/Yssscloud/Actions-OpenWrt/actions/workflows/build-openwrt.yml)
 <!--
 **Yssscloud/Yssscloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
